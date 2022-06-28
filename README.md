@@ -12,3 +12,4 @@
 ---
 
 A Project Engineer, exploring Web3. Currently learning Solidity, Python 👍
+Grinding through FreeCodeCamp~
